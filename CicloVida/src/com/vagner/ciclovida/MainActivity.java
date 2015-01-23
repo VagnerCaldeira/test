@@ -6,7 +6,7 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends ActionBarActivity { 
 	private static final String logTag = "LifecycleActivity";
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
